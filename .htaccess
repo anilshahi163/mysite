@@ -9,5 +9,4 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /anilprojects/wordpress/mysite/index.php [L]
 </IfModule>
 
-
 # END WordPress
