@@ -5,7 +5,7 @@ WP-Cache Config Sample File
 See wp-cache.php for author details.
 */
 
-$wpsc_last_post_update = 1507894177; //Added by WP-Cache Manager
+$wpsc_last_post_update = 1508226398; //Added by WP-Cache Manager
 $wp_cache_mobile_groups = ''; //Added by WP-Cache Manager
 $wp_cache_home_path = '/wordpress/'; //Added by WP-Cache Manager
 $wp_cache_slash_check = 1; //Added by WP-Cache Manager
